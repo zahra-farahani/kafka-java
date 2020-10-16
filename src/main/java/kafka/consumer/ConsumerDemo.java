@@ -1,4 +1,4 @@
-package com.github.simplesteph.kafka.consumer;
+package kafka.consumer;
 
 import org.apache.kafka.clients.consumer.ConsumerConfig;
 import org.apache.kafka.clients.consumer.ConsumerRecord;
